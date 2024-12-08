@@ -18,10 +18,11 @@ Este projeto foi desenvolvido durante o curso "Como organizar sua vida Financeir
 4. **Consultoria com ChatGPT**: Use a IA para obter análises personalizadas e dicas de melhoria.  
 
 ### Como Usar  
-1. Faça o download da planilha e insira suas informações financeiras.  
+1. Faça o download da planilha e insira suas informações financeiras. [Download aqui](https://github.com/Vifernandestech/SmartFinance-AI/blob/main/Planilha_Inteligente_Gest%C3%A3o_Financeira.xlsx)  
 2. Utilize as tabelas dinâmicas para visualizar resumos detalhados.  
-3. Analise seus gastos e receitas por meio dos gráficos no dashboard interativo.  
-4. Aproveite o poder do ChatGPT para interpretar dados e gerar insights valiosos sobre sua saúde financeira.  
+3. Analise seus gastos e receitas por meio dos gráficos no dashboard interativo.
+4. Após finalizada a planilha, copie apenas a área dos "Dados" e gere uma segunda planilha para inserí-la em usa ferramenta de Inteligência Artificial para analise. [Download arquivo exemplo](https://github.com/Vifernandestech/SmartFinance-AI/blob/main/Gest%C3%A3o_Financeira_paraAI.xlsx)
+5. Aproveite o poder do ChatGPT para interpretar dados e gerar insights valiosos sobre sua saúde financeira.  
 
 ### Considerações Finais  
 Este projeto combina praticidade e inovação para facilitar o controle financeiro pessoal. Com o uso de tabelas dinâmicas, dashboards interativos e inteligência artificial, torna-se possível organizar as finanças de forma eficiente e estratégica. Transforme o ChatGPT em seu consultor financeiro pessoal!  
