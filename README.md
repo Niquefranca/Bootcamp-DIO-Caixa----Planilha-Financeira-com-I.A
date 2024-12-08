@@ -35,4 +35,6 @@ Vitor Fernandes é estudante de Tecnologia em Segurança Cibernética pelo Senac
 
 ### Links para contato e outros projetos:  
 - [GitHub](https://github.com/Vifernandestech)  
-- [LinkedIn](www.linkedin.com/in/vifernandescybersec)  
+- [LinkedIn](www.linkedin.com/in/vifernandescybersec)
+
+
