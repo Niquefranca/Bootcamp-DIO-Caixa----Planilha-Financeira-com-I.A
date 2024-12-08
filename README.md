@@ -31,8 +31,8 @@ Este projeto combina praticidade e inovação para facilitar o controle financei
 Os dados utilizados neste projeto são fictícios e têm caráter exclusivamente educacional e demonstrativo.
 
 ## Sobre o Autor  
-Sou um profissional com experiência em UX/UI Design, marketing digital e tecnologia da informação, atualmente focado em Segurança Cibernética. Estou em transição de carreira e busco integrar conhecimentos de diferentes áreas para criar soluções inovadoras.  
+Vitor Fernandes é estudante de Tecnologia em Segurança Cibernética pelo Senac São Paulo e entusiasta de Inteligência Artificial. Com experiência em vendas e atendimento ao cliente tanto no e-commerce quanto no presencial, ele desenvolve projetos que combinam IA e segurança cibernética. Seu foco é transformar negócios e construir confiança por meio de soluções inovadoras e tecnológicas, como a criação de ferramentas para facilitar o controle financeiro e melhorar a gestão de recursos.
 
 ### Links para contato e outros projetos:  
-- [GitHub](https://github.com/seu-usuario)  
-- [LinkedIn](https://linkedin.com/in/seu-usuario)  
+- [GitHub](https://github.com/Vifernandestech)  
+- [LinkedIn](www.linkedin.com/in/vifernandescybersec)  
