@@ -17,3 +17,6 @@ sobre a análise dos dados da planilha em relação a informações financeiras 
 2. **Tabelas Dinâmicas**: Resumo financeiro para análise rápida e eficiente.  
 3. **Dashboards Interativos**: Gráficos dinâmicos que facilitam o monitoramento mensal das finanças pessoais.  
 4. **Consultoria com ChatGPT**: Use a IA para obter análises personalizadas.  
+
+
+Planilha Financeira Monique.xlsx
