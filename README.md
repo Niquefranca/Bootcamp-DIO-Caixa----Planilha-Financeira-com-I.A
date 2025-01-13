@@ -10,7 +10,7 @@ sobre a análise dos dados da planilha em relação a informações financeiras 
 - **Excel**: Para criar planilhas detalhadas com dados financeiros.  
 - **Tabelas Dinâmicas**: Para simplificar e analisar as informações de maneira organizada.  
 - **Dashboards Interativos**: Para acompanhamento visual das finanças.  
-- **ChatGPT**: Consultoria financeira inteligente para análise e insights baseados nos dados ----- escrever o meu texto  
+- **ChatGPT**: Análise financeira familiar com insights baseados em dados.
 
 ### Funcionalidades  
 1. **Inserção de Dados**: Planilha dedicada para entradas e saídas financeiras mensais.  
