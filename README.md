@@ -20,4 +20,4 @@ sobre a análise dos dados da planilha em relação a informações financeiras 
 4. **Consultoria com ChatGPT**: Use a IA para obter análises personalizadas.  
 
 
-Planilha Financeira Monique.xlsx
+
