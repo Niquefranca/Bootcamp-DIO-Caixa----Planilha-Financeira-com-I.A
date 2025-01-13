@@ -1,6 +1,7 @@
 # Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e IA  
 
-[Planilha Inteligente] incluir olanilha 
+git commit -m "Planilha Financeira Monique.xlsx"
+
 
 ## 📒 Descrição
 O projeto tem o objetivo de gerar uma planilha financeira dinâmica no Excel e utilizar o ChatGPT para buscar insights
